@@ -16,8 +16,7 @@ An end-to-end data analytics project exploring customer shopping behaviour using
 4. Developed an interactive Power BI dashboard to visualize the findings.
 
 ## 📊 Dashboard Preview
-![Customer Shopping Behaviour Dashboard](<img width="709" height="398" alt="customer-behavior-dashboard" src="https://github.com/user-attachments/assets/836eabc3-08ad-4ec8-aad6-36e443138a9d" />
-)
+![Customer Shopping Behaviour Dashboard](customer-behavior-dashboard.png)
 
 ## 🎯 Objective
 To explore customer shopping patterns, identify useful business insights, and communicate findings through data visualization.
